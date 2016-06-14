@@ -1,4 +1,40 @@
 body {
 	background-color: green;
-	background-position: right middle;
+
 }
+
+.overmij {
+	padding: 5px;font-size: 40px;
+    background-color: blue;
+    width: 200px;
+    text-align: center;
+	margin: 0 auto;
+}
+
+
+
+
+
+.info {
+font-size: 20px;
+}
+
+.link {
+	color: black;
+	text-decoration: none;
+	padding: 2px;font-size: 1.25rem;
+    background-color: blue;
+    border-color: blue;
+    border-style: outset;
+    width: 100px;
+    text-align: center;
+	margin: 0 auto;
+
+}
+
+.link:active {
+border-style: inset;
+}
+
+
+
