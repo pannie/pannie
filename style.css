@@ -1,0 +1,29 @@
+/* Ignore */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+  }
+
+body {
+    background-color: purple;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    display: table;
+ }
+
+/* Header Links */
+header a {
+    color: white; 
+    padding: 14px 16px; 
+    font-size: 17px;
+    display: inline-block;
+    float: none;
+    text-decoration: none;
+}
